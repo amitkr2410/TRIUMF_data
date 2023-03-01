@@ -1,2 +1,2 @@
-# TRIUMF_data
-Analysis of experimental data at TRIUMF lab. 
+# IRIS_data
+Analysis of iris experimental data at TRIUMF lab. 
